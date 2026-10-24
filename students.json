@@ -1,0 +1,113 @@
+[
+    {
+        "id": "01",
+        "name": "Ramu",
+        "age": 12,
+        "class": "6",
+        "marks": {
+            "English": 85,
+            "Maths": 90,
+            "Social": 95
+        }
+    },
+    {
+        "id": "02",
+        "name": "Suresh",
+        "age": 11,
+        "class": "6",
+        "marks": {
+            "English": 78,
+            "Maths": 88,
+            "Social": 82
+        }
+    },
+    {
+        "id": "03",
+        "name": "Priya",
+        "age": 13,
+        "class": "6",
+        "marks": {
+            "English": 92,
+            "Maths": 95,
+            "Social": 89
+        }
+    },
+    {
+        "id": "04",
+        "name": "Anil",
+        "age": 11,
+        "class": "6",
+        "marks": {
+            "English": 67,
+            "Maths": 75,
+            "Social": 80
+        }
+    },
+    {
+        "id": "05",
+        "name": "Sneha",
+        "age": 12,
+        "class": "6",
+        "marks": {
+            "English": 88,
+            "Maths": 91,
+            "Social": 94
+        }
+    },
+    {
+        "id": "06",
+        "name": "Kiran",
+        "age": 14,
+        "class": "6",
+        "marks": {
+            "English": 72,
+            "Maths": 69,
+            "Social": 77
+        }
+    },
+    {
+        "id": "07",
+        "name": "Lakshmi",
+        "age": 11,
+        "class": "6",
+        "marks": {
+            "English": 95,
+            "Maths": 87,
+            "Social": 92
+        }
+    },
+    {
+        "id": "08",
+        "name": "Arjun",
+        "age": 13,
+        "class": "6",
+        "marks": {
+            "English": 81,
+            "Maths": 84,
+            "Social": 79
+        }
+    },
+    {
+        "id": "09",
+        "name": "Divya",
+        "age": 12,
+        "class": "6",
+        "marks": {
+            "English": 46,
+            "Maths": 35,
+            "Social": 28
+        }
+    },
+    {
+        "id": "10",
+        "name": "Rahul",
+        "age": 14,
+        "class": "6",
+        "marks": {
+            "English": 76,
+            "Maths": 83,
+            "Social": 71
+        }
+    }
+]
+
